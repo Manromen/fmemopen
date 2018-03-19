@@ -15,6 +15,8 @@
 // limitations under the License.
 //
 
+#define _BSD_SOURCE 1
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
